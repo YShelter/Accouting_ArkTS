@@ -1,0 +1,204 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "There's always a new way to play sports."
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Recording"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "tab_detail",
+      "value": "明细"
+    },
+    {
+      "name": "mine_personal_data",
+      "value": "个人资料"
+    },
+    {
+      "name": "mine_check_updates",
+      "value": "检查更新"
+    },
+    {
+      "name": "mine_about",
+      "value": "关于"
+    },
+    {
+      "name": "clock_in",
+      "value": "打卡"
+    },
+    {
+      "name": "got_it",
+      "value": "知道了"
+    },
+    {
+      "name": "tab_statistics",
+      "value": "统计"
+    },
+    {
+      "name": "achievement",
+      "value": "我的成就"
+    },
+    {
+      "name": "tab_mine",
+      "value": "我的"
+    },
+    {
+      "name": "accounting_list",
+      "value": "记账列表"
+    },
+    {
+      "name": "no_task",
+      "value": "暂无任务，请添加任务"
+    },
+    {
+      "name": "task_morning",
+      "value": "早起"
+    },
+    {
+      "name": "task_apple",
+      "value": "吃苹果"
+    },
+    {
+      "name": "task_water",
+      "value": "喝水"
+    },
+    {
+      "name": "task_smile",
+      "value": "每日微笑"
+    },
+    {
+      "name": "task_brush",
+      "value": "每日刷牙"
+    },
+    {
+      "name": "task_night",
+      "value": "早睡"
+    },
+    {
+      "name": "task_done",
+      "value": "已完成"
+    },
+    {
+      "name": "task_achievement_level",
+      "value": "连续%d天达成"
+    },
+    {
+      "name": "already_open",
+      "value": "已开启"
+    },
+    {
+      "name": "target_setting",
+      "value": "目标设置"
+    },
+    {
+      "name": "open_reminder",
+      "value": "开启提醒"
+    },
+    {
+      "name": "remind_time",
+      "value": "提醒时间"
+    },
+    {
+      "name": "frequency",
+      "value": "提醒频率"
+    },
+    {
+      "name": "complete",
+      "value": "完成"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "confirm",
+      "value": "确认"
+    },
+    {
+      "name": "set_your_frequency",
+      "value": "请设置您的频率"
+    },
+    {
+      "name": "today_balance",
+      "value": "今日结余"
+    },
+    {
+      "name": "Helvetica",
+      "value": "Helvetica"
+    },
+    {
+      "name": "PingFangSC_Regular",
+      "value": "PingFangSC-Regular"
+    },
+    {
+      "name": "HarmonyHeiTi",
+      "value": "HarmonyHeiTi"
+    },
+    {
+      "name": "HarmonyHeiTi_Bold",
+      "value": "HarmonyHeiTi-Bold"
+    },
+    {
+      "name": "HarmonyHeiTi_Medium",
+      "value": "HarmonyHeiTi-Medium"
+    },
+    {
+      "name": "sure",
+      "value": "确定"
+    },
+    {
+      "name": "privacy_title",
+      "value": "请在“健康生活”权限管理中开启“XX”权限"
+    },
+    {
+      "name": "privacy_desc",
+      "value": "该功能支持XX…（功能介绍）"
+    },
+    {
+      "name": "jump_ad",
+      "value": " 跳过广告 %ds"
+    },
+    {
+      "name": "alert",
+      "value": "警告"
+    },
+    {
+      "name": "alert_message",
+      "value": "您的系统日期早于最新的打卡时间！"
+    },
+    {
+      "name": "alert_button",
+      "value": "退出"
+    },
+    {
+      "name": "agencyNoTask",
+      "value": "Go to Healthy Living to add tasks"
+    },
+    {
+      "name": "task_reason",
+      "value": "Used to publish/cancel task reminders"
+    },
+    {
+      "name": "empty",
+      "value": "0"
+    }
+  ]
+}

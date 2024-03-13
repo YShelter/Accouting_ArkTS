@@ -1,0 +1,112 @@
+{
+  "color": [
+    {
+      "name": "white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "transparent",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "primaryBgColor",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "titleColor",
+      "value": "#182431"
+    },
+    {
+      "name": "btnBgColor",
+      "value": "#F2F2F2"
+    },
+    {
+      "name": "statusTipColor",
+      "value": "#989A9C"
+    },
+    {
+      "name": "blueColor",
+      "value": "#007DFF"
+    },
+    {
+      "name": "black",
+      "value": "#000000"
+    },
+    {
+      "name": "primaryRed",
+      "value": "#E92F4F"
+    },
+    {
+      "name": "tabTitleColor",
+      "value": "#999"
+    },
+    {
+      "name": "signatureColor",
+      "value": "#66686a"
+    },
+    {
+      "name": "leveColor",
+      "value": "#c99411"
+    },
+    {
+      "name": "leveBgColor",
+      "value": "#d4e6f1"
+    },
+    {
+      "name": "borderColor",
+      "value": "#cccccc"
+    },
+    {
+      "name": "mineBgColor",
+      "value": "#edf2f5"
+    },
+    {
+      "name": "launcherBlueColor",
+      "value": "#4694C2"
+    },
+    {
+      "name": "disabledColor",
+      "value": "#dddadc"
+    },
+    {
+      "name": "list_background_color",
+      "value": "#33000000"
+    },
+    {
+      "name": "no_data_background",
+      "value": "#cc727272"
+    },
+    {
+      "name": "text_common_color",
+      "value": "#182431"
+    },
+    {
+      "name": "hex_common_color",
+      "value": "#99182431"
+    },
+    {
+      "name": "progress_background_color",
+      "value": "#08000000"
+    },
+    {
+      "name": "numerator_text_color",
+      "value": "#007DFF"
+    },
+    {
+      "name": "denominator_text_color",
+      "value": "#72787E"
+    },
+    {
+      "name": "progress_column_color",
+      "value": "#0d000000"
+    },
+    {
+      "name": "start_window_background",
+      "value": "#ffffffff"
+    }
+    ,{
+      "name": "transparent_background",
+      "value": "#00FFFFFF"
+    }
+  ]
+}

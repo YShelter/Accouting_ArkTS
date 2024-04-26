@@ -10,7 +10,9 @@
 
 ### 添加记录页面
 
-![img](./images/clip_image008.png) ![img](./images/clip_image010.png)<img src="./images/error_1.png" alt="error" style="zoom:50%;" />
+![img](./images/clip_image008.png) ![img](./images/clip_image010.png)
+
+<img src="./images/error_1.png" alt="error" style="zoom:50%;" />
 
 ### 账单明细页及筛选功能
 
